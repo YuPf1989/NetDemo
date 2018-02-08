@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_creat"
+        android:title="creat"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_just"
+        android:title="just"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_fromIterable"
+        android:title="fromIterable"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_interval"
+        android:title="interval"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_range"
+        android:title="range"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_timer"
+        android:title="timer"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_backpressure"
+        android:title="backpressure"
+        app:showAsAction="never"/>
+</menu>
